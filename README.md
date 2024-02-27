@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Hi, I'm Erdem Doğanay <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="drawing" width="25"/></h1> 
+</p>
 
-<!--
-**erdemdoganayy/erdemdoganayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.credly.com/badges/aa1c714d-d7b5-4490-999c-f56978d327f2/public_url" target="_blank">
+    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/cka-certified-kubernetes-administrator.png" alt="" />
+  </a>
+  <a href="https://www.credly.com/badges/c47d24d3-fd13-4c65-bd5d-ba4c7de735fa/public_url" target="_blank">
+    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/aws-certified-cloud-practitioner(1).png" alt="" />
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/erdem-d-078445122/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
