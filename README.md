@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/aa1c714d-d7b5-4490-999c-f56978d327f2/public_url" target="_blank">
-    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/cka-certified-kubernetes-administrator.png" alt="" />
+    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/cka_from_cncfsite__281_29.png" alt="" />
   </a>
   <a href="https://www.credly.com/badges/c47d24d3-fd13-4c65-bd5d-ba4c7de735fa/public_url" target="_blank">
-    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/aws-certified-cloud-practitioner(1).png" alt="" />
+    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/pc.png" alt="" />
   </a>
 
 </p>
