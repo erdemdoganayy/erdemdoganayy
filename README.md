@@ -8,6 +8,9 @@
   <a href="https://www.credly.com/badges/c47d24d3-fd13-4c65-bd5d-ba4c7de735fa/public_url" target="_blank">
     <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/pc.png" alt="" />
   </a>
+  <a href="https://www.credly.com/badges/15ecea07-0809-40f2-b01f-74797450bae1/public_url" target="_blank">
+    <img align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/ckad_from_cncfsite.png" alt="" />
+  </a>
 
 </p>
 <p align="center">
