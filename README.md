@@ -11,6 +11,9 @@
   <a href="https://www.credly.com/badges/15ecea07-0809-40f2-b01f-74797450bae1/public_url" target="_blank">
     <img width=200 align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/ckad_from_cncfsite.png" alt="" />
   </a>
+  <a href="https://www.credly.com/badges/0fa86d5c-7d8a-42c3-adc7-edf2daea7775/public_url" target="_blank">
+    <img width=200 align="center" src="https://github.com/erdemdoganayy/erdemdoganayy/blob/main/saa.png" alt="" />
+  </a>
 
 </p>
 <p align="center">
